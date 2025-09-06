@@ -2,8 +2,7 @@
 
 #include <memory>
 
-#include <OpenGL/gl.h>
-
+#include <SFML/OpenGL.hpp>
 #include <SFML/Window.hpp>
 
 std::shared_ptr<sf::Window> InitWindow()
