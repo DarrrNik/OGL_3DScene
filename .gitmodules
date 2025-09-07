@@ -1,0 +1,3 @@
+[submodule "eternal/glm"]
+	path = eternal/glm
+	url = https://github.com/g-truc/glm.git
